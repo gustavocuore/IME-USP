@@ -1,0 +1,6 @@
+Listas podem guardar objetos de tipos diferentes e poderemos armazenar e manipular esses valores
+
+Listas: Forma de guardar um conjunto de valores (uma coleção de objetos) em uma única estrutura de dados (uma única variável)
+        Podemos acessar os elementos de uma lista com nome_da_lista[1] por exemplo
+
+Posso ler, armazenar, perguntar o comprimento, concatenar no final da lista e também posso definir uma lista vazia
